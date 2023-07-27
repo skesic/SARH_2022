@@ -5,6 +5,7 @@ Data Analytics project conducted in Python.
 
 ## Objective
 <image src="https://www.grough.co.uk/lib/img/editorial/Prestwick-Coastguard-helicopter-1200.jpg" width=20% height=20%>
+To perform an initial data and exploratory analysis of some of the data in order to derive insights.
 
   
 ## Data
