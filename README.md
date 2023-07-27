@@ -4,7 +4,7 @@ Data Analytics project conducted in Python.
 
 
 ## Objective
-<src="https://github.com/skesic/SARH_2022/assets/77510959/5c613a40-4276-4fa5-aa78-634c0631e1c5.png" width=20% height=20%>
+<src="https://www.grough.co.uk/lib/img/editorial/Prestwick-Coastguard-helicopter-1200.jpg" width=20% height=20%>
 
   
 Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
