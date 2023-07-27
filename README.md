@@ -7,10 +7,6 @@ Data Analytics project conducted in Python.
 <image src="https://www.grough.co.uk/lib/img/editorial/Prestwick-Coastguard-helicopter-1200.jpg" width=20% height=20%>
 
   
-Instacart is an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns. 
-The objective of this study is to analyse customer behavior and uncover patterns fro growth.
-
-  
 ## Data
 Open source data, link to [SARH data set](https://www.gov.uk/government/statistical-data-sets/search-and-rescue-helicopter-sarh01)
 Data on civilian search and rescue helicopter activity in the United Kingdom, produced by Department for Transport. 
