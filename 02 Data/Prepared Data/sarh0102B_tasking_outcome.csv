@@ -1,0 +1,125 @@
+﻿Year,Quarter,Published_tasking_outcome _note1,Pre_arranged_Transfer,Rescue_or_Recovery,Search_Only,Support,Total
+2016,Apr to Jun,Aborted,2,3,0,1,6
+2016,Apr to Jun,Complete,70,339,8,29,446
+2016,Apr to Jun,Complete (Nothing found),0,0,65,0,65
+2016,Apr to Jun,False Alarm/Hoax,0,0,4,0,4
+2016,Apr to Jun,Retasked,1,6,3,2,12
+2016,Apr to Jun,Stood Down,2,112,57,7,178
+2016,Apr to Jun,Total,75,460,137,39,711
+2016,Jul to Sep,Aborted,1,7,5,0,13
+2016,Jul to Sep,Complete,86,406,22,48,562
+2016,Jul to Sep,Complete (Nothing found),0,0,51,0,51
+2016,Jul to Sep,False Alarm/Hoax,0,2,4,1,7
+2016,Jul to Sep,Retasked,0,8,6,1,15
+2016,Jul to Sep,Stood Down,2,137,69,8,216
+2016,Jul to Sep,Total,89,560,157,58,864
+2016,Oct to Dec,Aborted,0,2,1,1,4
+2016,Oct to Dec,Complete,66,214,12,24,316
+2016,Oct to Dec,Complete (Nothing found),0,1,51,0,52
+2016,Oct to Dec,False Alarm/Hoax,0,1,2,0,3
+2016,Oct to Dec,Retasked,0,4,6,2,12
+2016,Oct to Dec,Stood Down,3,60,60,8,131
+2016,Oct to Dec,Total,69,282,132,35,518
+2017,Jan to Mar,Aborted,0,7,6,2,15
+2017,Jan to Mar,Complete,73,190,3,22,288
+2017,Jan to Mar,Complete (Nothing found),0,0,44,0,44
+2017,Jan to Mar,False Alarm/Hoax,0,0,1,0,1
+2017,Jan to Mar,Retasked,0,1,1,0,2
+2017,Jan to Mar,Stood Down,3,42,79,27,151
+2017,Jan to Mar,Total,76,240,134,51,501
+2017,Apr to Jun,Completed,62,302,63,35,462
+2017,Apr to Jun,Other,0,6,7,6,19
+2017,Apr to Jun,Terminated,8,66,52,45,171
+2017,Apr to Jun,Total,70,374,122,86,652
+2017,Jul to Sep,Completed,70,407,120,51,648
+2017,Jul to Sep,Other,0,0,6,6,12
+2017,Jul to Sep,Terminated,1,52,43,104,200
+2017,Jul to Sep,Total,71,459,169,161,860
+2017,Oct to Dec,Completed,83,216,89,23,411
+2017,Oct to Dec,Other,1,2,6,5,14
+2017,Oct to Dec,Terminated,3,21,36,38,98
+2017,Oct to Dec,Total,87,239,131,66,523
+2018,Jan to Mar,Completed,69,292,64,30,455
+2018,Jan to Mar,Other,4,5,7,11,27
+2018,Jan to Mar,Terminated,5,34,27,53,119
+2018,Jan to Mar,Total,78,331,98,94,601
+2018,Apr to Jun,Completed,69,356,76,35,536
+2018,Apr to Jun,Other,2,6,1,12,21
+2018,Apr to Jun,Terminated,5,37,21,63,126
+2018,Apr to Jun,Total,76,399,98,110,683
+2018,Jul to Sep,Completed,85,368,106,55,614
+2018,Jul to Sep,Other,1,1,7,7,16
+2018,Jul to Sep,Terminated,1,25,42,100,168
+2018,Jul to Sep,Total,87,394,155,162,798
+2018,Oct to Dec,Completed,95,210,76,28,409
+2018,Oct to Dec,Other,0,1,5,7,13
+2018,Oct to Dec,Terminated,2,10,29,52,93
+2018,Oct to Dec,Total,97,221,110,87,515
+2019,Jan to Mar,Completed,79,174,64,21,338
+2019,Jan to Mar,Other,0,0,2,7,9
+2019,Jan to Mar,Terminated,2,19,23,51,95
+2019,Jan to Mar,Total,81,193,89,79,442
+2019,Apr to Jun,Completed,68,322,67,47,504
+2019,Apr to Jun,Other,0,2,2,4,8
+2019,Apr to Jun,Terminated,5,33,34,68,140
+2019,Apr to Jun,Total,73,357,103,119,652
+2019,Jul to Sep,Completed,79,374,75,45,573
+2019,Jul to Sep,Other,0,2,2,2,6
+2019,Jul to Sep,Terminated,1,54,44,86,185
+2019,Jul to Sep,Total,80,430,121,133,764
+2019,Oct to Dec,Completed,102,225,58,10,395
+2019,Oct to Dec,Other,1,0,3,7,11
+2019,Oct to Dec,Terminated,4,35,36,26,101
+2019,Oct to Dec,Total,107,260,97,43,507
+2020,Jan to Mar,Completed,78,162,65,17,322
+2020,Jan to Mar,Other,7,1,1,4,13
+2020,Jan to Mar,Terminated,2,39,33,48,122
+2020,Jan to Mar,Total,87,202,99,69,457
+2020,Apr to Jun [note 3],Completed,47,141,42,55,285
+2020,Apr to Jun [note 3],Other,1,2,3,10,16
+2020,Apr to Jun [note 3],Terminated,1,35,41,61,138
+2020,Apr to Jun [note 3],Total,49,178,86,126,439
+2020,Jul to Sep,Completed,84,384,64,96,628
+2020,Jul to Sep,Other,0,6,2,10,18
+2020,Jul to Sep,Terminated,2,73,47,115,237
+2020,Jul to Sep,Total,86,463,113,221,883
+2020,Oct to Dec,Completed,78,174,54,28,334
+2020,Oct to Dec,Other,0,2,2,4,8
+2020,Oct to Dec,Terminated,2,19,19,53,93
+2020,Oct to Dec,Total,80,195,75,85,435
+2021,Jan to Mar,Completed,94,139,48,28,309
+2021,Jan to Mar,Other,0,1,1,4,6
+2021,Jan to Mar,Terminated,4,26,22,54,106
+2021,Jan to Mar,Total,98,166,71,86,421
+2021,Apr to Jun,Completed,57,317,62,47,483
+2021,Apr to Jun,Other,0,6,3,7,16
+2021,Apr to Jun,Terminated,3,39,32,92,166
+2021,Apr to Jun,Total,60,362,97,146,665
+2021,Jul to Sep,Completed,89,444,93,52,678
+2021,Jul to Sep,Other,3,11,5,14,33
+2021,Jul to Sep,Terminated,5,69,62,131,267
+2021,Jul to Sep,Total,97,524,160,197,978
+2021,Oct to Dec,Completed,114,202,67,26,409
+2021,Oct to Dec,Other,1,1,10,5,17
+2021,Oct to Dec,Terminated,4,34,49,48,135
+2021,Oct to Dec,Total,119,237,126,79,561
+2022,Jan to Mar,Completed,73,221,57,32,383
+2022,Jan to Mar,Other,2,3,6,17,28
+2022,Jan to Mar,Terminated,5,60,16,51,132
+2022,Jan to Mar,Total,80,284,79,100,543
+2022,Apr to Jun,Completed,68,332,75,38,513
+2022,Apr to Jun,Other,4,3,2,11,20
+2022,Apr to Jun,Terminated,3,63,26,128,220
+2022,Apr to Jun,Total,75,398,103,177,753
+2022,Jul to Sep,Completed,62,358,94,52,566
+2022,Jul to Sep,Other,3,10,0,12,25
+2022,Jul to Sep,Terminated,3,66,22,163,254
+2022,Jul to Sep,Total,68,434,116,227,845
+2022,Oct to Dec,Completed,71,220,80,24,395
+2022,Oct to Dec,Other,2,4,2,8,16
+2022,Oct to Dec,Terminated,4,15,36,56,111
+2022,Oct to Dec,Total,77,239,118,88,522
+2023,Jan to Mar,Completed,56,201,51,20,328
+2023,Jan to Mar,Other,3,12,2,8,25
+2023,Jan to Mar,Terminated,3,32,22,50,107
+2023,Jan to Mar,Total,62,245,75,78,460
