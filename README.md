@@ -42,6 +42,6 @@ Feenstra, Robert C., Robert Inklaar and Marcel P. Timmer (2013), "The Next Gener
   - link to [Tableau Public](https://public.tableau.com/app/profile/sanja1971/viz/UKHelicopterSearchandRescueSARHOverviewReport/SerachandRescueHelicopter?publish=yes)
     This storyboard doesn't contain every step I took as part of the analysis - only those relevant to the final results.
   
-  - link to [Power Point presentation](https://github.com/skesic/RockbusterStealthSQL/blob/main/Rockbuster%20Stealth%20LLC%20sales%20analysis%20presentation.pdf)
+  - link to [Power Point presentation](https://github.com/skesic/SARH_2022/blob/main/Sanja%20Kesic_Data%20Analytics%20Portfolio.pdf)
 
   
